@@ -4,7 +4,7 @@ O projeto "chapisco-mini-sumo" refere-se a um sistema de mini sumô competitivo,
 
 ## Ambiente de Desenvolvimento
 
-O projeto é desenvolvido no ambiente do Visual Studio Code, utilizando a extensão "Arduino for Visual Studio Code" versão 0.6.0. Essa extensão proporciona uma integração eficiente entre o Visual Studio Code e a plataforma Arduino, facilitando a escrita, compilação e upload de código para os microcontroladores Arduino.
+O projeto é desenvolvido no ambiente do Visual Studio Code, utilizando a extensão "Arduino for Visual Studio Code" na versão 0.6.0 (preview).
 
 ```
 .
