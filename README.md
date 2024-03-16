@@ -24,6 +24,15 @@ O projeto é desenvolvido no ambiente do Visual Studio Code, utilizando a extens
 
 Para iniciar o desenvolvimento, certifique-se de ter o Visual Studio Code instalado em seu sistema. Em seguida, instale a extensão "Arduino for Visual Studio Code".
 
+## Fluxograma
+
+Você pode visualizar o fluxograma do processo de chapiscagem em `chapisco.drawio`. Para abrir este arquivo, siga estas etapas:
+
+1. Acesse o [site draw.io](https://app.diagrams.net/).
+2. Clique em "Abrir Diagrama".
+3. Selecione "Importar do dispositivo" e faça o upload do arquivo `chapisco.drawio`.
+4. O fluxograma será aberto no editor do draw.io, onde você poderá visualizar e editar conforme necessário.
+
 1. Clone este repositório:
 
 ```bash
